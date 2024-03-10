@@ -1,0 +1,7 @@
+Patient Identification Information
+●
+Name: John Doe
+●
+Age: 45
+●
+Sex: Male

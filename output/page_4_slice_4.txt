@@ -1,0 +1,19 @@
+perfectly competitive industry. What is the industry output and price now?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2 MARKS] 
+Industry output is just where demand = supply. 
+Demand is P = 30 – 3QD 
+Supply is P = 6 
+ 
+30 – 3Q = 6 
+24 = 3Q 
+Q* = 8  
+P* = 6

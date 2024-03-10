@@ -1,0 +1,9 @@
+This is the equilibrium because if UBC Complies SFU would choose cheat (1200 > -
+800) and if UBC Cheats SFU would also choose cheat (0 > -200). 
+ 
+And, if SFU Complies UBC would choose cheat (1200 > -800) and if SFU Cheats UBC 
+would also choose cheat (0 > -200). 
+ 
+For both firms the dominant strategy is to choose cheat – this is the Nash 
+Equilibrium and both will earn zero profits.  
+ 
