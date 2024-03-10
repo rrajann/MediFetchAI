@@ -2,10 +2,16 @@ import os
 from pinecone import Pinecone, PodSpec
 import numpy as np
 import uuid
+import os
+from dotenv import load_dotenv
 
 
+load_dotenv()
 
-pc = Pinecone(api_key='58355fdf-87de-4a40-82c4-138fd8252eab')
+pinecone_api_key = os.environ.get("PINECONE_API_KEY")
+
+
+pc = Pinecone(api_key=pinecone_api_key)
 index_name = "nwhacks" 
 
 

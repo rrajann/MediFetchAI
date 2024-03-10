@@ -14,8 +14,15 @@ import uuid
 import numpy as np
 from pinecone import Pinecone, PodSpec
 import jsonify
+import os
+from dotenv import load_dotenv
 
-pc = Pinecone(api_key='58355fdf-87de-4a40-82c4-138fd8252eab')
+
+load_dotenv()
+
+pinecone_api_key = os.environ.get("PINECONE_API_KEY")
+
+pc = Pinecone(pinecone_api_key)
 index_name = "nwhacks" 
 
 

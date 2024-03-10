@@ -35,7 +35,7 @@ firebase_admin.initialize_app(cred, {
     'storageBucket': 'nwhacks24-b5e70.appspot.com'
 })
 
-pc = Pinecone(api_key='')
+pc = Pinecone(api_key=pinecone_api_key)
 index_name = "nwhacks" 
 
 
